@@ -180,9 +180,7 @@ h6,
     transition: .3s;
 }    
 
-.service-item:hover::after {
-    bottom: -25px;
-}
+
 
 .service-item p {
     transition: .3s;
