@@ -88,6 +88,11 @@ h6,
 .float-button{
 	margin-top:16px;
 }
+
+.nav--hidden{
+    transform: translateY(-100px);
+    box-shadow: none;
+}
 .back-to-top {
     position: fixed;
     display: none;
