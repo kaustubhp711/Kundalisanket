@@ -69,7 +69,10 @@ h6,
     padding-right: 0;
     text-align: center;
 }
-
+body::-webkit-scrollbar{
+    display: none;
+    overflow-y: hidden;
+}
 
 .floating{
 	position:fixed;
